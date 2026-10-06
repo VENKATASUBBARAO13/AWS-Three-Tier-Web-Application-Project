@@ -104,39 +104,39 @@ The screenshots demonstrate successful application operations and database-backe
 
 ### Application Dashboard
 
-![UserFlow Dashboard](screenshots/01-userflow-dashboard.png)
+![UserFlow Dashboard](screenshots/userflow-dashboard.png)
 
 ### User Update
 
-![User Update](screenshots/02-user-update.png)
+![User Update](screenshots/user-update.png)
 
 ### User Delete
 
-![User Delete](screenshots/03-user-delete.png)
+![User Delete](screenshots/user-delete.png)
 
 ### Application After Delete
 
-![Application After Delete](screenshots/04-application-after-delete.png)
+![Application After Delete](screenshots/user-added-successfully.png)
 
 ### Amazon RDS MySQL
 
-![Amazon RDS MySQL](screenshots/05-rds-mysql.png)
+![Amazon RDS MySQL](screenshots/rds-mysql.png)
 
 ### Amazon EC2 Instances
 
-![Amazon EC2 Instances](screenshots/06-ec2-instances.png)
+![Amazon EC2 Instances](screenshots/ec2-instances.png)
 
 ### Application Load Balancers
 
-![Application Load Balancers](screenshots/07-application-load-balancers.png)
+![Application Load Balancers](screenshots/application-load-balancers.png)
 
 ### Application Through Load Balancer
 
-![Application Through ALB](screenshots/08-application-through-alb.png)
+![Application Through ALB](screenshots/application-through-alb.png)
 
 ### Application Through Custom Domain
 
-![Application Through Custom Domain](screenshots/09-application-custom-domain.png)
+![Application Through Custom Domain](screenshots/application-custom-domain.png)
 
 ## 🎯 Key Learning Outcomes
 
