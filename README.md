@@ -104,39 +104,39 @@ The screenshots demonstrate successful application operations and database-backe
 
 ### Application Dashboard
 
-![UserFlow Dashboard](screenshots/userflow-dashboard.png)
+![UserFlow Dashboard](docs/screenshots/userflow-dashboard.png)
 
 ### User Update
 
-![User Update](screenshots/user-update.png)
+![User Update](docs/screenshots/user-update.png)
 
 ### User Delete
 
-![User Delete](screenshots/user-delete.png)
+![User Delete](docs/screenshots/user-delete.png)
 
 ### Application After Delete
 
-![Application After Delete](screenshots/user-added-successfully.png)
+![Application After Delete](docs/screenshots/user-added-successfully.png)
 
 ### Amazon RDS MySQL
 
-![Amazon RDS MySQL](screenshots/rds-mysql.png)
+![Amazon RDS MySQL](docs/screenshots/rds-mysql.png)
 
 ### Amazon EC2 Instances
 
-![Amazon EC2 Instances](screenshots/ec2-instances.png)
+![Amazon EC2 Instances](docs/screenshots/ec2-instances.png)
 
 ### Application Load Balancers
 
-![Application Load Balancers](screenshots/application-load-balancers.png)
+![Application Load Balancers](docs/screenshots/application-load-balancers.png)
 
 ### Application Through Load Balancer
 
-![Application Through ALB](screenshots/application-through-alb.png)
+![Application Through ALB](docs/screenshots/application-through-alb.png)
 
 ### Application Through Custom Domain
 
-![Application Through Custom Domain](screenshots/application-custom-domain.png)
+![Application Through Custom Domain](docs/screenshots/application-custom-domain.png)
 
 ## 💻 Application Source Code
 
