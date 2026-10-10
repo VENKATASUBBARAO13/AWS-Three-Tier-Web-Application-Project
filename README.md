@@ -1,4 +1,4 @@
-# AWS Three-Tier Web Application Deployment
+# AWS Full-Stack Web Application Deployment
 
 A hands-on AWS project demonstrating the deployment of a web application using a three-tier architecture:
 
@@ -348,7 +348,7 @@ AWS-Three-Tier-Web-Application-Project/
 
 ## 🎯 Key Learning Outcomes
 
-- Understanding AWS three-tier application architecture
+- Understanding AWS Full-Stack application architecture
 - Deploying applications on Amazon EC2
 - Working with Application Load Balancers
 - Connecting an application server to Amazon RDS MySQL
@@ -362,6 +362,6 @@ This project was created for hands-on learning and demonstration purposes. AWS r
 
 ---
 
-**Project:** AWS Three-Tier Web Application Deployment  
+**Project:** AWS Full-Stack Web Application Deployment  
 **Application:** UserFlow  
 **Cloud Platform:** Amazon Web Services (AWS)
